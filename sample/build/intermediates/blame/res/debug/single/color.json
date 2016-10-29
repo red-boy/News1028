@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android2\\News1028\\sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\Android2\\News1028\\sample\\build\\intermediates\\exploded-aar\\News1028\\library\\unspecified\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\Android2\\News1028\\sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\Android2\\News1028\\sample\\build\\intermediates\\exploded-aar\\News1028\\library\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    }
+]
